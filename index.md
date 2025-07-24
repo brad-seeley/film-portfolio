@@ -19,7 +19,7 @@ If you'd like to know more, please contact me at:<br>
 </a>
 
 <a href="./imgs/full-size/Annecy-canal.jpeg"> 
-<img src="./imgs/resized/Annecy-canal.jpeg" alt="A gorgeous canal in idyllic Annecy" width="400" class="center">
+<img src="./imgs/resized/Annecy-canal.jpeg" alt="A gorgeous canal in idyllic Annecy" width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Cinque-Terre-hike.jpeg"> 
@@ -35,11 +35,11 @@ If you'd like to know more, please contact me at:<br>
 </a>
 
 <a href="./imgs/full-size/Riomaggiore-1.jpeg">
-<img src="./imgs/resized/Riomaggiore-1.jpeg" alt="The idyllic town of Riomaggiore, in Cinque Terre. " width="400" class="center">
+<img src="./imgs/resized/Riomaggiore-1.jpeg" alt="The idyllic town of Riomaggiore, in Cinque Terre. " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Budapest-pigeons.jpeg">
-<img src="./imgs/resized/Budapest-pigeons.jpeg" alt="Some very photogenic pigeons posing in Budapest." width="400" class="center">
+<img src="./imgs/resized/Budapest-pigeons.jpeg" alt="Some very photogenic pigeons posing in Budapest." width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Brisbane-by-ferry.jpeg">
@@ -63,11 +63,11 @@ If you'd like to know more, please contact me at:<br>
 </a>
 
 <a href="./imgs/full-size/London-cat-cuddles.jpeg">
-<img src="./imgs/resized/London-cat-cuddles.jpeg" alt="Sharing the love with our celebrity street cat - Rocky. " width="400" class="center">
+<img src="./imgs/resized/London-cat-cuddles.jpeg" alt="Sharing the love with our celebrity street cat - Rocky. " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/London-door.jpeg">
-<img src="./imgs/resized/London-door.jpeg" alt="A cute leafy door in Bloomsbury, London. " width="400" class="center">
+<img src="./imgs/resized/London-door.jpeg" alt="A cute leafy door in Bloomsbury, London. " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/London-Lidl-building.jpeg">
@@ -79,11 +79,11 @@ If you'd like to know more, please contact me at:<br>
 </a>
 
 <a href="./imgs/full-size/Neuschwanstein-castle.jpeg">
-<img src="./imgs/resized/Neuschwanstein-castle.jpeg" alt="A cloudy view of Neuschwanstein castle, the inspiration for the Disney logo! " width="400" class="center">
+<img src="./imgs/resized/Neuschwanstein-castle.jpeg" alt="A cloudy view of Neuschwanstein castle, the inspiration for the Disney logo! " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Paris-Arc-de-Triomphe.jpeg">
-<img src="./imgs/resized/Paris-Arc-de-Triomphe.jpeg" alt="Impressive (Triumphant even!) sculpting on the underside of the Arc de Triomphe. " width="400" class="center">
+<img src="./imgs/resized/Paris-Arc-de-Triomphe.jpeg" alt="Impressive (Triumphant even!) sculpting on the underside of the Arc de Triomphe. " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Paris-skyline.jpeg">
@@ -91,7 +91,7 @@ If you'd like to know more, please contact me at:<br>
 </a>
 
 <a href="./imgs/full-size/Paris-Eiffel.jpeg">
-<img src="./imgs/resized/Paris-Eiffel.jpeg" alt="A sunrise Eiffel Tower, complete with Olympic rings. " width="400" class="center">
+<img src="./imgs/resized/Paris-Eiffel.jpeg" alt="A sunrise Eiffel Tower, complete with Olympic rings. " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Prague-canal.jpeg">
@@ -103,7 +103,7 @@ If you'd like to know more, please contact me at:<br>
 </a>
 
 <a href="./imgs/full-size/Richmond-deer.jpeg">
-<img src="./imgs/resized/Richmond-deer.jpeg" alt="Deer spotting in Richmond Park. " width="400" class="center">
+<img src="./imgs/resized/Richmond-deer.jpeg" alt="Deer spotting in Richmond Park. " width="265" class="center">
 </a>
 
 <a href="./imgs/full-size/Seagull-patrol.jpeg">
