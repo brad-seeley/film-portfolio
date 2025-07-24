@@ -20,7 +20,7 @@ Please have a look through some of my favourites that I've taken over the past f
 </a>
 
 <a href="./imgs/full-size/Cinque-Terre-hike-2.jpeg"> 
-<img src="./imgs/resized/Cinque-Terre-hike-2.jpeg" alt=Heading down towards Corniglia after visiting the seaside vineyards." height="400" class="center">
+<img src="./imgs/resized/Cinque-Terre-hike-2.jpeg" alt="Heading down towards Corniglia after visiting the seaside vineyards." height="400" class="center">
 </a>
 
 <a href="./imgs/full-size/Cinque-Terre-hike-3.jpeg"> 
@@ -31,7 +31,7 @@ Please have a look through some of my favourites that I've taken over the past f
 <img src="./imgs/resized/Brisbane-by-ferry.jpeg" alt="Brisbane city in the afternoon light, taken on a CityCat ferry." height="400" class="center">
 </a>
 
-<a href="https://brad-seeley.github.io/film-portfolio/">
+<a href="./imgs/full-size/Budapest-pigeons.jpeg">
 <img src="./imgs/resized/Budapest-pigeons.jpeg" alt="Some very photogenic pigeons posing in Budapest." height="400" class="center">
 </a>
 
