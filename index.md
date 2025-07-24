@@ -27,15 +27,27 @@ Please have a look through some of my favourites that I've taken over the past f
 <img src="./imgs/resized/Cinque-Terre-hike-3.jpeg" alt="A brief respite in Manarola before we continue uphill." height="400" class="center">
 </a>
 
+<a href="./imgs/full-size/Brisbane-by-ferry.jpeg">
+<img src="./imgs/resized/Brisbane-by-ferry.jpeg" alt="Brisbane city in the afternoon light, taken on a CityCat ferry." height="400" class="center">
+</a>
+
+<a href="https://brad-seeley.github.io/film-portfolio/">
+<img src="./imgs/resized/Budapest-pigeons.jpeg" alt="Some very photogenic pigeons posing in Budapest." height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Film-Culprit.jpeg">
+<img src="./imgs/resized/Film-Culprit.jpeg" alt="Taking a pic of my Canon FTb while checking my lens repairs were successful." height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Fussen.jpeg">
+<img src="./imgs/resized/Fussen.jpeg" alt="Probably one of my favourite places ever. Such a beautiful town in Bavaria." height="400" class="center">
+</a>
+
 
 
 </div>
 
 
-[<img src="./imgs/resized/Brisbane-by-ferry.jpeg" alt="Brisbane city in the afternoon light, taken on a CityCat ferry. ">](./imgs/full-size/Brisbane-by-ferry.jpeg)
-[<img src="./imgs/resized/Budapest-pigeons.jpeg" alt="Some very photogenic pigeons posing in Budapest. ">](./imgs/full-size/Budapest-pigeons.jpeg)
-[<img src="./imgs/resized/Film-Culprit.jpeg" alt="Taking a pic of my Canon FTb while checking my lens repairs were successful. ">](./imgs/full-size/Film-Culprit.jpeg)
-[<img src="./imgs/resized/Fussen.jpeg" alt="Probably one of my favourite places ever. Such a beautiful town in Bavaria. ">](./imgs/full-size/Fussen.jpeg)
 
 
 **[Home](./..)**
