@@ -1,9 +1,15 @@
-	## Film photography
+## Film photography
 
 After seeing my girlfriend Jess take beautiful photos of countless memories, I was inspired to start taking my own film photos. <br>
 Please have a look through some of my favourites that I've taken over the past few years. <br>
 
+*Please note, these were taken on a range of cameras and film stock.* My most used cameras are:
+- Canon AV1
+- Canon Canonet F1.9
+- Contax RTS
 
+If you'd like to know more, please contact me at:*<br>
+[contact@brad-seeley.com](mailto:contact@brad-seeley.com)
 
 <div class="center">
 
