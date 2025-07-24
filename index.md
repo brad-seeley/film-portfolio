@@ -152,5 +152,9 @@ If you'd like to know more, please contact me at:<br>
 **[Home](./..)**
 
 
-<link href="style.css" type="text/css" rel="stylesheet">
-<style>td, th { border: none!important;} </style>
+<link href="./style.css" type="text/css" rel="stylesheet">
+<style>
+td, th { border: none!important;} 
+
+.main-content: {  max-width: 90% }
+</style>
