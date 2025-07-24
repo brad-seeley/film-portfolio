@@ -27,6 +27,10 @@ Please have a look through some of my favourites that I've taken over the past f
 <img src="./imgs/resized/Cinque-Terre-hike-3.jpeg" alt="A brief respite in Manarola before we continue uphill." height="400" class="center">
 </a>
 
+<a href="./imgs/full-size/Riomaggiore-1.jpeg">
+<img src="./imgs/resized/Riomaggiore-1.jpeg" alt="The idyllic town of Riomaggiore, in Cinque Terre. " height="400" class="center">
+</a>
+
 <a href="./imgs/full-size/Budapest-pigeons.jpeg">
 <img src="./imgs/resized/Budapest-pigeons.jpeg" alt="Some very photogenic pigeons posing in Budapest." height="400" class="center">
 </a>
@@ -75,12 +79,12 @@ Please have a look through some of my favourites that I've taken over the past f
 <img src="./imgs/resized/Paris-Arc-de-Triomphe.jpeg" alt="Impressive (Triumphant even!) sculpting on the underside of the Arc de Triomphe. " height="400" class="center">
 </a>
 
-<a href="./imgs/full-size/Paris-Eiffel.jpeg">
-<img src="./imgs/resized/Paris-Eiffel.jpeg" alt="A sunrise Eiffel Tower, complete with Olympic rings. " height="400" class="center">
-</a>
-
 <a href="./imgs/full-size/Paris-skyline.jpeg">
 <img src="./imgs/resized/Paris-skyline.jpeg" alt="Looking over Paris, atop the Arc de Triomphe. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Paris-Eiffel.jpeg">
+<img src="./imgs/resized/Paris-Eiffel.jpeg" alt="A sunrise Eiffel Tower, complete with Olympic rings. " height="400" class="center">
 </a>
 
 <a href="./imgs/full-size/Prague-canal.jpeg">
@@ -91,6 +95,45 @@ Please have a look through some of my favourites that I've taken over the past f
 <img src="./imgs/resized/Renner-Springs-NT.jpeg" alt="Deep in the Australian outback, stopping at Renner Springs to rest and refuel. " height="400" class="center">
 </a>
 
+<a href="./imgs/full-size/Richmond-deer.jpeg">
+<img src="./imgs/resized/Richmond-deer.jpeg" alt="Deer spotting in Richmond Park. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Seagull-patrol.jpeg">
+<img src="./imgs/resized/Seagull-patrol.jpeg" alt="Two seagulls, taking life at their own pace. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Seven-Sisters-coast.jpeg">
+<img src="./imgs/resized/Seven-Sisters-coast.jpeg" alt="The incredible southern coastline of England. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Seven-Sisters-coast-2.jpeg">
+<img src="./imgs/resized/Seven-Sisters-coast-2.jpeg" alt="The incredible southern coastline of England. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Swiss-dandilion.jpeg">
+<img src="./imgs/resized/Swiss-dandilion.jpeg" alt="Jess blowing a dandilion on a cold, gloomy day in Switzerland. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Swiss-Lucerne.jpeg">
+<img src="./imgs/resized/Swiss-Lucerne.jpeg" alt="The magnificent mountains overlooking the city of Lucerne. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Swiss-Lungernsee.jpeg">
+<img src="./imgs/resized/Swiss-Lungernsee.jpeg" alt="One of the spectacular Swiss alpine lakes, taken from the mountain pass. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Swiss-snow.jpeg">
+<img src="./imgs/resized/Swiss-snow.jpeg" alt="A cute swiss cottage, in the mountains surrounded by snow. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/Wheat-fields.jpeg">
+<img src="./imgs/resized/Wheat-fields.jpeg" alt="Wheat fields near Adelaide, with some wind turbines on the far hills. " height="400" class="center">
+</a>
+
+<a href="./imgs/full-size/York-Castle.jpeg">
+<img src="./imgs/resized/York-Castle.jpeg" alt="Cliffords Tower, an old Castle keep in York, England. " height="400" class="center">
+</a>
 
 
 
