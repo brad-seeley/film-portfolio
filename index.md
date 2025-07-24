@@ -14,12 +14,12 @@ If you'd like to know more, please contact me at:<br>
 
 <div class="center">
 
-<a href="./imgs/full-size/Annecy-canal-2.jpeg"> 
-<img src="./imgs/resized/Annecy-canal-2.jpeg" alt="A gorgeous canal in idyllic Annecy" width="603" class="center">
-</a>
-
 <a href="./imgs/full-size/Annecy-canal.jpeg"> 
 <img src="./imgs/resized/Annecy-canal.jpeg" alt="A gorgeous canal in idyllic Annecy" width="265" class="center">
+</a>
+
+<a href="./imgs/full-size/Annecy-canal-2.jpeg"> 
+<img src="./imgs/resized/Annecy-canal-2.jpeg" alt="A gorgeous canal in idyllic Annecy" width="603" class="center">
 </a>
 
 </div>
@@ -47,23 +47,12 @@ If you'd like to know more, please contact me at:<br>
 </div>
 <div class="center">
 
-<a href="./imgs/full-size/Neuschwanstein-castle.jpeg">
-<img src="./imgs/resized/Neuschwanstein-castle.jpeg" alt="A cloudy view of Neuschwanstein castle, the inspiration for the Disney logo! " width="265" class="center">
-</a>
-
 <a href="./imgs/full-size/Gottingen.jpeg">
 <img src="./imgs/resized/Gottingen.jpeg" alt="Strolling the streets of Gottingen, in central Germany. " width="603" class="center">
 </a>
 
-</div>
-<div class="center">
-
-<a href="./imgs/full-size/Jess-beach.jpeg">
-<img src="./imgs/resized/Jess-beach.jpeg" alt="A beautiful winter sunset on the beach near Brisbane. " width="603" class="center">
-</a>
-
-<a href="./imgs/full-size/London-cat-cuddles.jpeg">
-<img src="./imgs/resized/London-cat-cuddles.jpeg" alt="Sharing the love with our celebrity street cat - Rocky. " width="265" class="center">
+<a href="./imgs/full-size/Neuschwanstein-castle.jpeg">
+<img src="./imgs/resized/Neuschwanstein-castle.jpeg" alt="A cloudy view of Neuschwanstein castle, the inspiration for the Disney logo! " width="265" class="center">
 </a>
 
 </div>
@@ -75,6 +64,17 @@ If you'd like to know more, please contact me at:<br>
 
 <a href="./imgs/full-size/London-Lidl-building.jpeg">
 <img src="./imgs/resized/London-Lidl-building.jpeg" alt="Autumn skies over the local skyline. " width="603" class="center">
+</a>
+
+</div>
+<div class="center">
+
+<a href="./imgs/full-size/Jess-beach.jpeg">
+<img src="./imgs/resized/Jess-beach.jpeg" alt="A beautiful winter sunset on the beach near Brisbane. " width="603" class="center">
+</a>
+
+<a href="./imgs/full-size/London-cat-cuddles.jpeg">
+<img src="./imgs/resized/London-cat-cuddles.jpeg" alt="Sharing the love with our celebrity street cat - Rocky. " width="265" class="center">
 </a>
 
 </div>
@@ -102,12 +102,12 @@ If you'd like to know more, please contact me at:<br>
 </div>
 <div class="center">
 
-<a href="./imgs/full-size/Richmond-deer.jpeg">
-<img src="./imgs/resized/Richmond-deer.jpeg" alt="Deer spotting in Richmond Park. " width="265" class="center">
-</a>
-
 <a href="./imgs/full-size/Seagull-patrol.jpeg">
 <img src="./imgs/resized/Seagull-patrol.jpeg" alt="Two seagulls, taking life at their own pace. " width="603" class="center">
+</a>
+
+<a href="./imgs/full-size/Richmond-deer.jpeg">
+<img src="./imgs/resized/Richmond-deer.jpeg" alt="Deer spotting in Richmond Park. " width="265" class="center">
 </a>
 
 </div>
