@@ -1,0 +1,46 @@
+title: Brad Seeley
+description: Film photography portfolio
+show_downloads: false
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+github:
+  is_project_page: false
+
+url: "https://brad-seeley.github.io"
+
+author:
+  name: Brad Seeley
+  email: contact@brad-seeley.com
+
+#minima:
+#  social_links:
+#    - title: LinkedIn
+#      icon: linkedin
+#      url: "https://linkedin.com/in/brad-seeley"
+#    - title: Github
+#      icon: github
+#      url: "https://github.com/brad-seeley"
+#  show_excerpts: true
+
+
+#theme: architect
+#remote_theme: pages-themes/architect@v0.2.0
+
+#theme: cayman
+#remote_theme: pages-themes/cayman@v0.2.0
+
+#theme: minima
+#remote_theme: jekyll/minima@1e8a445
+
+#theme: minimal
+#remote_theme: pages-themes/minimal@v0.2.0
+
+#theme: modernist
+#remote_theme: pages-themes/modernist@v0.2.0
+
+#theme: slate
+#remote_theme: pages-themes/slate@v0.2.0
+
+#theme: tactile
+#remote_theme: pages-themes/tactile@v0.2.0
