@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 .main-content{
-	max-width: 90%
+	max-width: 95%
 }
 
 
 .inner {
-  max-width: 90%;
+  max-width: 95%;
 }
 
