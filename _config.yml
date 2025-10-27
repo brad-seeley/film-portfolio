@@ -1,7 +1,7 @@
 title: Brad Seeley
-description: Film photography portfolio
+#description: Film photography portfolio
 description: >- # This means to ignore newlines until the next ":" area.
-  Film photography portfolio
+  Film photography portfolio <br>
   <a href="/">Portfolio Home</a>
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
