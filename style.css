@@ -19,3 +19,7 @@
   margin-right: auto;
 
 }
+
+a.header-link:link {color: yellow}
+a.header-link:visited {color:orange}
+a.header-link:hover {color:white}
